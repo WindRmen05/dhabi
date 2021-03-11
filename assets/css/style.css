@@ -493,7 +493,7 @@ input::placeholder,
 textarea::placeholder {
 	font-size: 14px;
 	font-weight: 500;
-	color: #fff;
+	color: rgb(32, 32, 32);
 }
 
 input:focus::-webkit-input-placeholder,
@@ -2452,7 +2452,7 @@ ul.team-social li a {
 */
 
 .contact-section {
-	background-image: url(../img/contact-bg.jpg);
+	/* background-image: url(../img/contact-bg.jpg); */
 	background-attachment: fixed;
 }
 
@@ -2461,18 +2461,18 @@ ul.team-social li a {
 }
 
 .contact-section h2 {
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 
 .contact-section p {
-	color: #c5bfbf;
+	color: #333333;
 }
 
 .contact-section .contact-info i {
 	font-size: 30px;
 	margin-left: 0;
 	background: #D6AB5E;
-	color: #fff;
+	color: rgb(0, 0, 0);
 	padding: 10px;
 	border-radius: 0;
 	float: left;
@@ -2483,7 +2483,7 @@ ul.team-social li a {
 }
 
 .contact-inner h6 {
-	color: #fff;
+	color: rgb(0, 0, 0);
 	font-size: 20px;
 	font-weight: 400;
 	padding-left: 100px;
@@ -2499,7 +2499,7 @@ ul.team-social li a {
 
 .contact-section button.main-btn:hover {
 	background: #25283a;
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 
 .contact-form {
