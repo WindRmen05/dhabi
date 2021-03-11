@@ -801,9 +801,9 @@ textarea:focus::-webkit-input-placeholder {
 	color: #D6AB5E;
 }
 
-#header-3.header-area .main-menu .navbar-nav .nav-link:visited{
+/* #header-3.header-area .main-menu .navbar-nav .nav-link:visited{
 	color: #885ed6;
-}
+} */
 
 .header-area .main-menu li.nav-item:hover > a {
 	color: #777;
