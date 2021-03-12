@@ -754,8 +754,8 @@ textarea:focus::-webkit-input-placeholder {
 ============== */
 
 .header-area .logo img {
-	width: 100px;
-	/* margin-top: -27px; */
+	width: 140px;
+	margin-top: -25px;
 }
 
 #header-2.header-area .logo img {
