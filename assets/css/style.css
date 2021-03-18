@@ -3601,6 +3601,7 @@ ul.port-menu.recent {
 
 .single-service h5 {
 	margin: 20px 0;
+	height: 50px;
 }
 
 .single-service p {
@@ -3837,6 +3838,7 @@ ul.port-menu.recent {
 	margin-top: 30px;
 }
 
-.servcsec h5, .servcsec a{color:#fff;}
+.servcsec h5, .servcsec a{color:#fff;height: 50px;}
+.servcsec p{height: 50px;}
 
 .servcsec h6{margin-bottom:50px; font-size:30px; color:#fff;}
