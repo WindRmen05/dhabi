@@ -3611,6 +3611,7 @@ ul.port-menu.recent {
 
 .single-service-bg img {
 	width: 100%;
+	
 }
 
 .helpline-section {
@@ -3840,5 +3841,6 @@ ul.port-menu.recent {
 
 .servcsec h5, .servcsec a{color:#fff;height: 50px;}
 .servcsec p{height: 50px;}
+.servcsec img{max-width: 400px!important;}
 
 .servcsec h6{margin-bottom:50px; font-size:30px; color:#fff;}
