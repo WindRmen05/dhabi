@@ -1049,7 +1049,7 @@ textarea:focus::-webkit-input-placeholder {
 }
 
 #home3 .single-slide-item {
-	background-image: url(../img/slider/slide-5.jpg);
+	background-image: url(../img/slider/slide-1.jpg);
 }
 
 #home3 .hero-area-bg-2 {
@@ -2093,6 +2093,10 @@ p.privacy {
 	background: #fff;
 	padding: 20px;
 	box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.10);
+}
+
+.single-service q {
+	font-size: 20px;
 }
 
 .service-content h3 {
@@ -3607,6 +3611,7 @@ ul.port-menu.recent {
 .single-service p {
 	font-size: 16px;
 	line-height: 28px;
+	margin-top: 1rem;
 }
 
 .single-service-bg img {
@@ -3839,8 +3844,8 @@ ul.port-menu.recent {
 	margin-top: 30px;
 }
 
-.servcsec h5, .servcsec a{color:#fff;height: 50px;}
-.servcsec p{height: 50px;}
+.servcsec h5, .servcsec a{color:#fff;height: 50px;text-transform: uppercase;}
+.servcsec p{height: 50px;color: #D6AB5E;}
 .servcsec img{max-width: 400px!important;}
 
 .servcsec h6{margin-bottom:50px; font-size:30px; color:#fff;}
