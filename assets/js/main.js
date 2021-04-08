@@ -111,12 +111,12 @@
 	// Testimonial Carousel
 
 	$('.team-carousel').owlCarousel({
-		items: 1,
+		items: 3,
 		margin: 30,
 		dots: true,
 		nav: false,
-		loop: true,
-		autoplay: true,
+		loop: false,
+		// autoplay: true,
 		responsiveClass: true,
 		responsive: {
 			575: {
@@ -131,14 +131,9 @@
 			},
 
 			990: {
-				items: 2,
+				items: 3,
 				loop: true,
 
-			},
-			1200: {
-				items: 3,
-				dots: true,
-				loop: true,
 			}
 		}
 	});

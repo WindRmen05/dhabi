@@ -1596,15 +1596,30 @@ single-service-area.active {
 	padding-left: 10px;
 }
 
+.single-team-item p {
+	margin-top: 20px;
+	height: 100px;
+	overflow: hidden;
+}
+
+.single-team-item button {
+	background: transparent;
+}
+
 .single-team-item {
 	background: #fff;
-	padding: 50px 50px 70px;
+	padding: 50px 50px 30px;
 	position: relative;
 	z-index: 1;
 	margin-top: 50px;
 	box-shadow: 0 3px 9px -2px #d0cece;
 	border-bottom: 3px solid #fff;
 	transition: .3s;
+	height: min-content;
+}
+
+.more {
+	height: 100%!important;
 }
 
 .single-team-item:hover {
