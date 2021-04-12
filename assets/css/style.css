@@ -3881,3 +3881,9 @@ ul.port-menu.recent {
 	display: grid;
 	width: 100%;
 }
+
+@media screen and (max-width:600px) {
+	.mail {
+		justify-content: center;
+	}
+}
