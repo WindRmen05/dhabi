@@ -1608,10 +1608,12 @@ single-service-area.active {
 	border: none;
 	padding: .5rem;
 	color: #fff;
+	transition: all .3s;
 }
 
 .single-team-item button:hover {
-	background: #1f3b74;
+	/* box-shadow: 0px 4px 4px rgb(2, 2, 2); */
+	background: #4d5791;
 }
 
 .single-team-item {
@@ -3869,8 +3871,8 @@ ul.port-menu.recent {
 }
 
 .servcsec h5, .servcsec a{color:#fff;text-transform: uppercase;}
-.servcsec a {color:#0B162C;background: #fff;padding: .5rem;}
-.servcsec a:hover {background: #1f3b74;;}
+.servcsec a {color:#0B162C;background: rgb(255, 255, 255);padding: .5rem;}
+.servcsec a:hover {background: #25283a;color: #fff;}
 .servcsec h5 {height: 50px;}
 .servcsec p{height: min-content;color: #D6AB5E;}
 .servcsec img{max-width: 400px!important;}
