@@ -3878,7 +3878,7 @@ ul.port-menu.recent {
 .servcsec a {color:#0B162C;background: rgb(255, 255, 255);padding: .5rem;}
 .servcsec a:hover {background: #25283a;color: #fff;}
 .servcsec h5 {height: 50px;}
-.servcsec p{height: min-content;color: #D6AB5E;}
+.servcsec p{height: min-content;color: #D6AB5E;margin: 1rem 0 1rem 0 !important;}
 .servcsec img{max-width: 400px!important;}
 
 .servcsec h6{margin-bottom:50px; font-size:30px; color:#fff;}
