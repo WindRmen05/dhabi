@@ -1275,8 +1275,12 @@ textarea:focus::-webkit-input-placeholder {
 	text-transform: uppercase;
 	font-size: 17px;
 	font-weight: 500;
-	margin: 20px 0 0;
+	/* margin: 20px 0 0; */
 	color: #122A44;
+	position: absolute;
+	bottom: 14px;
+	margin-left: 50%;
+	transform: translate(-50%);
 }
 
 .single-service-area:hover a.read-more {
